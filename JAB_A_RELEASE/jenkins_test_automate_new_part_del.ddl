@@ -1,0 +1,1 @@
+DROP TABLE jenkins_test_automate_new_part;
