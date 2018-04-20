@@ -1,3 +1,3 @@
 FROM alpine 
-COPY quickstart.sh /workspace
-CMD ["/workspace/quickstart.sh"]
+COPY quickstart.sh /
+ENTRYPOINT ["cat", "/quickstart.sh"]
