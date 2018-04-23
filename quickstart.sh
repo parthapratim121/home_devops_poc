@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "bye  all life is hell $(date). "
+echo "Good Morning $(date). "
