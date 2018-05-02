@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Good Afternoon $(date). "
+echo "Not Good Afternoon $(date). "
