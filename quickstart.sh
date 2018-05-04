@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Good Morning $(date). "
+echo "Good Morning finally over $(date). "
