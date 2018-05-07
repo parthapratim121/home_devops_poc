@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Good Morning finally over $(date). "
+echo "Hi Welcome to Kubernates demo $(date). "
